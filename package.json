@@ -1,0 +1,17 @@
+{
+  "name": "anonymous_chat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "authors": [
+    "tshepontlhokoa <tshepo.ntlhokoa@gmail.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
